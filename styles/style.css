@@ -200,7 +200,7 @@
   padding-left: 39px;
   padding-top: 51px;
   padding-right: 39px;
-  font-family: "Raleway", bold;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 22px;
   text-transform: uppercase;
@@ -271,7 +271,7 @@
 .about__title {
   margin-left: 25px;
   margin-top: 164px;
-  font-family: "Raleway", bold;
+  font-family: "Raleway", sans-serif;
   font-size: 40px;
   font-weight: 700;
   color: black;
